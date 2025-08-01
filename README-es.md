@@ -1,3 +1,7 @@
+[日本語](README-jp.md)
+[العربية](README-ar.md)
+[Português](README-pt.md)
+[Español](README-es.md)
 # 🕸️ Aplicación de Scraping y Procesamiento de Datos
 
 ## Descripción General
