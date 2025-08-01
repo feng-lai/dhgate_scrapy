@@ -1,3 +1,7 @@
+[日本語](README-jp.md)
+[العربية](README-ar.md)
+[Português](README-pt.md)
+[Español](README-es.md)
 # 🕸️ Aplicativo de Coleta e Processamento de Dados
 
 ## Visão Geral
